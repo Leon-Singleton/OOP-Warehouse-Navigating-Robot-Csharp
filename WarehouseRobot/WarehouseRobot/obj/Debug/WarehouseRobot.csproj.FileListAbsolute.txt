@@ -1,0 +1,9 @@
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\WarehouseRobot\bin\Debug\WarehouseRobot.exe.config
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\WarehouseRobot\bin\Debug\WarehouseRobot.exe
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\WarehouseRobot\bin\Debug\WarehouseRobot.pdb
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\WarehouseRobot\obj\Debug\WarehouseRobot.csprojResolveAssemblyReference.cache
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\WarehouseRobot\obj\Debug\WarehouseRobot.exe
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\WarehouseRobot\obj\Debug\WarehouseRobot.pdb
+C:\Users\Leon\Downloads\Warehouse Robot Solution (1)\WarehouseRobot\WarehouseRobot\bin\Debug\WarehouseRobot.exe.config
+C:\Users\Leon\Downloads\Warehouse Robot Solution (1)\WarehouseRobot\WarehouseRobot\obj\Debug\WarehouseRobot.exe
+C:\Users\Leon\Downloads\Warehouse Robot Solution (1)\WarehouseRobot\WarehouseRobot\obj\Debug\WarehouseRobot.pdb

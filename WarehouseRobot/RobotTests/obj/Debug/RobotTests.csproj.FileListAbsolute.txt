@@ -1,0 +1,7 @@
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\bin\Debug\RobotTests.dll
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\bin\Debug\RobotTests.pdb
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\bin\Debug\WarehouseRobot.exe
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\bin\Debug\WarehouseRobot.pdb
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\obj\Debug\RobotTests.csprojResolveAssemblyReference.cache
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\obj\Debug\RobotTests.dll
+c:\users\leon\documents\visual studio 2013\Projects\WarehouseRobot\RobotTests\obj\Debug\RobotTests.pdb
